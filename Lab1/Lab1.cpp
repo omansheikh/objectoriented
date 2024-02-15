@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -9,7 +10,7 @@ double power(double base, int exponent = 2) {
         result *= base;
     }
     return result;
-}
+}  
 
 // Task 2: Overloaded power function for different data types
 double power(char n, int p = 2) {
@@ -102,6 +103,7 @@ int main() {
     cout << "Number of turners: " << turners_count << endl;
 
     delete[] employees;
-
+    
     return 0;
 }
+*/
